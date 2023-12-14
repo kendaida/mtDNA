@@ -4,10 +4,10 @@ name: fullMitoPipeline_v2_6_Multi
  - subclass: WDL
    primaryDescriptorPath: fullMitoPipeline_v2_6_Multi.wdl
 
-name: Create AlignAndCallR1_v2_6_Multi
+name: AlignAndCallR1_v2_6_Multi
  - subclass: WDL
    primaryDescriptorPath: AlignAndCallR1_v2_6_Multi.wdl
-name: Create AlignAndCallR2_v2_6_Multi
+name: AlignAndCallR2_v2_6_Multi
  - subclass: WDL
    primaryDescriptorPath: AlignAndCallR2_v2_6_Multi.wdl
 name: LiftoverTools_v2_6_Multi
